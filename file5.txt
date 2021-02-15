@@ -1,1 +1,2 @@
 First line of file text 5.
+Second line of file text 5.
